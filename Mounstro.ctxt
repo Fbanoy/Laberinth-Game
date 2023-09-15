@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=mnX\ mnY
+comment0.target=Mounstro(int,\ int)
+comment1.params=
+comment1.target=int\ getmnX()
+comment2.params=
+comment2.target=int\ getmnY()
+comment3.params=
+comment3.target=void\ plusY()
+comment4.params=
+comment4.target=void\ plusX()
+comment5.params=
+comment5.target=void\ minusX()
+comment6.params=
+comment6.target=void\ minusY()
+numComments=7

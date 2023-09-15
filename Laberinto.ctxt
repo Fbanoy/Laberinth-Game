@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ leerArchivo()
+comment1.params=
+comment1.target=Laberinto()
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment3.params=
+comment3.target=void\ moveMounters()
+comment4.params=ke
+comment4.target=void\ processKeyEvent(java.awt.event.KeyEvent)
+comment5.params=
+comment5.target=boolean\ verificarLose()
+comment6.params=
+comment6.target=boolean\ verificarWin()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+comment8.params=
+comment8.target=void\ run()
+numComments=9
